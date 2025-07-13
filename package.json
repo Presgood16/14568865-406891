@@ -1,0 +1,17 @@
+{
+  "name": "14568865-406891",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Cinema ticket booking service implementation",
+  "main": "src/pairtest/TicketService.js",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "test:watch": "node --test --watch test/*.test.js"
+  },
+  "keywords": ["cinema", "tickets", "booking", "nodejs"],
+  "author": "14568865",
+  "license": "MIT",
+  "devDependencies": {
+    "node:test": "^20.0.0"
+  }
+}
